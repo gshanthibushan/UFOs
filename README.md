@@ -13,7 +13,12 @@ Once you have entered the webpage, you can use the Filter function to filter the
 ![image](https://user-images.githubusercontent.com/79486450/118416603-8cd78080-b67e-11eb-86fa-074d88abaeab.png)
 
 For example if you wanted to know how many circle shape UFO's are identified; simply you can type in circle under "Entre Shape" to get the following results:
-![image](https://user-images.githubusercontent.com/79486450/118416664-d758fd00-b67e-11eb-9206-0a1350accebe.png)
+![image](https://user-images.githubusercontent.com/79486450/118417024-5569d380-b680-11eb-9e7a-f413de761baa.png)
 
 
-## Summary:
+## Summary
+Although, the web page represents good information one of the drawbacks of this webpage is that, to go back to the main result page, you must delete what entered in the filter search there is no button that can clean the filter.
+For the further development, we can add "clear button" to clear the filter.  Also, we can add Duration as another filter for the users who would like to know the duration of the sighting.  Another interesting one would be to link the data with other sources that contain pictures or videos.
+
+
+
