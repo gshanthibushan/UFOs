@@ -10,7 +10,7 @@ Also, in this HTML webpage we created a table that help the user to filter the d
 ![image](https://user-images.githubusercontent.com/79486450/118416687-e770dc80-b67e-11eb-92b0-4695be5fc1e1.png)
 
 Once you have entered the webpage, you can use the Filter function to filter the data by following criteria.
-![image](https://user-images.githubusercontent.com/79486450/118416603-8cd78080-b67e-11eb-86fa-074d88abaeab.png)
+![image](https://user-images.githubusercontent.com/79486450/118417479-4552f380-b682-11eb-9913-e56f70866e3d.png)
 
 For example if you wanted to know how many circle shape UFO's are identified; simply you can type in circle under "Entre Shape" to get the following results:
 ![image](https://user-images.githubusercontent.com/79486450/118417024-5569d380-b680-11eb-9e7a-f413de761baa.png)
